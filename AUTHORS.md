@@ -2,5 +2,4 @@
 
 names
 Fidelis Kanu
-p----
 Akande John
