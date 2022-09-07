@@ -56,3 +56,4 @@ size_t quote_state_len(const char *str, quote_state_t state)
 {
 	return (quote_state_f(state)(str, NULL));
 }
+/*******END OF TASK********/
