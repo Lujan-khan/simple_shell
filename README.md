@@ -2,7 +2,7 @@
 
 NOW 
 ## Overview
-Simple Shell is a Holberton School pair project. The general goal of the project is to write a simple UNIX command interpreter. 
+Simple Shell is a ALX pair project. The general goal of the project is to write a simple UNIX command interpreter. 
 ## Content
 * [Installation](#Installation)
 * [Builtins](#Builtins)
@@ -15,7 +15,7 @@ Simple Shell is a Holberton School pair project. The general goal of the project
 
 ## Installation
 ```
-git clone https://github.com/patrickdeyoreo/simple_shell.git
+git clone https://github.com/lujan-khan/simple_shell.git
 cd simple_shell
 gcc *.c -o hsh
 ```
